@@ -21,7 +21,7 @@ vue2 + vue-router + vuex + element-ui + axios + mockjs + echarts
 查看效果 [请点击这里](http://20.200.208.225/index.html#/login)
 
 
-### 登录12
+### 登录
 
 不同用户登录账号和密码 ： admin admin
 
