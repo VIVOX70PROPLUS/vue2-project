@@ -1,33 +1,29 @@
-<<<<<<< HEAD
-
-## Project setup
+## About
 ```
-yarn install
+此项目是 vue2 + element-ui 构建的后台管理系统，使用mockjs模拟后端的数据，并使用echarts进行图表的展示。
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+---- yarn install
+---- yarn serve
+打包：
+---- yarn build
 ```
 
-### Lints and fixes files
+### 技术栈
 ```
-yarn lint
+vue2 + vue-router + vuex + element-ui + axios + mockjs + echarts
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vue2-project
-基于vue2和mockjs开发的智能手机用户管理系统
+### 效果演示
 
-权限管理-登录账号和密码 ：admin admin
+```text
+查看效果 [请点击这里](http://20.200.208.225/index.html#/login)。
+```
 
-​								xiaoxiao xiaoxiao
+### 登录
 
->>>>>>> e4075d8456d969b64b64e46fc809a194e572c1a0
+不同用户登录账号和密码 ： admin admin
+
+​												xiaoxiao xiaoxiao
